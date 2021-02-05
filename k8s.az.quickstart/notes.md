@@ -1,4 +1,4 @@
-# (azure kubernetes quck start)[https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough]
+# [azure kubernetes quick start](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 
 ```
 
